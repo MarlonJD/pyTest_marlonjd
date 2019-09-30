@@ -16,9 +16,9 @@ setup(
     author='Burak Karahan',
     author_email='burak.karahan@mail.ru',
     # Provide either the link to your github or to your website
-    url='https://github.com/marlonjd/pyTest-marlonjd',
+    url='https://github.com/marlonjd/pyTest_marlonjd',
     # I explain this later on
-    download_url=f'https://github.com/marlonjd/pyTest-marlonjd/archive/v{VERSION}.tar.gz',
+    download_url=f'https://github.com/marlonjd/pyTest_marlonjd/archive/v{VERSION}.tar.gz',
     # Keywords that define your package best
     keywords=['pyTest', 'test'],
     install_requires=[],
